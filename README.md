@@ -1,0 +1,2 @@
+# ZugBotJS
+Discord Bot
